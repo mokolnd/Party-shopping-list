@@ -1,0 +1,9 @@
+Drinks
+
+Vodka
+Beer
+Lemonade
+Diet Coke
+Orange Juice
+Cranberry Juice
+Tequila
